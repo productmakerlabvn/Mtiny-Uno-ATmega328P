@@ -163,8 +163,8 @@ Trong các trường hợp đã nạp chương trình (không cần sử dụng 
 
 <table><thead>
   <tr>
-    <th>Power Input</th>
-    <th>USB-C: 5VDC (Support USB Power Bank)<br>Domino (VIN): 6~24VDC</th>
+    <td>Power Input</td>
+    <td>USB-C: 5VDC (Support USB Power Bank)<br>Domino (VIN): 6~24VDC</td>
   </tr></thead>
 <tbody>
   <tr>
