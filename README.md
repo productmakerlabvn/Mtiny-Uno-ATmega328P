@@ -90,7 +90,7 @@ Mạch Mtiny Uno ATmega328P (Arduino Compatible) được nghiên cứu và và 
 
 3) Bổ sung thêm các linh kiện giúp ổn định, chống nhiễu.
 
-4) Sau khi đã nạp chương trình, có thể cấp nguồn linh hoạt cho mạch bằng mạch Mtiny Power (6 \~ 24VDC) hoặc cấp nguồn trực tiếp qua chân 3V3 (3 \~ 3.3VDC).
+4) Sau khi đã nạp chương trình, có thể cấp nguồn linh hoạt cho mạch bằng mạch Mtiny Power (6 \~ 24VDC) hoặc cấp nguồn trực tiếp qua chân 5V.
 
 ## Hình ảnh
 
